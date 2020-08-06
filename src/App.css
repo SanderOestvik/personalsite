@@ -40,3 +40,18 @@
 .Rollbutton {
   margin: 10px;  
 }
+
+.red {
+  background-color: #ff0000;
+}
+
+.normal {
+  background-color: aliceblue;
+}
+
+.gameBoard, .gameBoardRow, .gameBoardCell {
+  border: 1px solid white;
+  font-size: large;
+}
+  
+
